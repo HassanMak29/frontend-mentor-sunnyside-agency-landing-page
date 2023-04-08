@@ -66,7 +66,7 @@ header {
   flex-direction: column;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   header {
     min-height: 120vh;
   }
@@ -119,7 +119,7 @@ header {
   display: none;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .nav-section {
     position: relative;
   }
@@ -217,7 +217,7 @@ header {
   width: 3rem;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .section-hero h1 {
     font-size: 7rem;
     text-align: center;
@@ -313,7 +313,7 @@ header {
   background-image: url("images/desktop/image-stand-out.jpg");
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .section-info {
     grid-template-columns: 1fr;
   }
@@ -395,7 +395,7 @@ header {
   color: var(--darkblue-photographytext);
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .section-info-2 {
     flex-direction: column;
   }
@@ -499,7 +499,7 @@ header {
   color: hsla(0, 0%, 0%, 0.3);
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .section-testimonials {
     padding: 12rem 4rem;
   }
@@ -562,7 +562,7 @@ header {
   background-image: url("images/desktop/image-gallery-sugarcubes.jpg");
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   .section-gallery {
     min-height: 80rem;
     grid-template-columns: 1fr 1fr;
@@ -644,7 +644,7 @@ nav {
   color: hsl(0, 0%, 100%, 0.95);
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 900px) {
   footer {
     gap: 9rem;
   }
