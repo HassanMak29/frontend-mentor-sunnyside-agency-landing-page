@@ -21,8 +21,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/HassanMak29/frontend-mentor-sunnyside-agency-landing-page)
+- Live Site URL: [Live site URL](https://frontend-mentor-sunnyside-landing.netlify.app/)
 
 ## My process
 
