@@ -126,9 +126,9 @@ header {
   }
 
   .nav-section nav ul {
-    width: 95%;
-    position: absolute;
-    top: 10rem;
+    width: 80%;
+    position: fixed;
+    top: 13rem;
     left: 50%;
     transform: translate(-50%);
     flex-direction: column;
@@ -136,6 +136,7 @@ header {
     background-color: #fff;
     padding: 0 10rem;
     gap: 3.5rem;
+    z-index: 99;
 
     max-height: 0;
     overflow: hidden;
